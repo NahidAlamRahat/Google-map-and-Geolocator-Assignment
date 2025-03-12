@@ -4,9 +4,10 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'location_controller.dart';
 
 
-class LocationTracker extends StatelessWidget {
+class LiveLocationMapScreen extends StatelessWidget {
 
   final LocationController controller = Get.put(LocationController());
+
 
   @override
   Widget build(BuildContext context) {

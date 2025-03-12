@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:google_maps_and_geolocator/home.dart';
+import 'package:google_maps_and_geolocator/live_location_map_screen.dart';
 
 import 'package:google_maps_and_geolocator/main.dart';
 
